@@ -31,6 +31,6 @@ Selected projects and case studies will be added here as I continue improving my
 
 ## Contact
 
-- GitHub: [github.com/mialfatih](https://github.com/mialfatih)
-- LinkedIn: Add LinkedIn URL
-- Email: Add professional email
+- GitHub: github.com/mialfatih
+- LinkedIn: linkedin.com/in/muhammadizzuddinalfatih/
+- Email: alfatih.cipondoh@gmail.com
