@@ -1,48 +1,36 @@
-<h1 align="center">Hi 👋, I'm Muhammad Izzuddin Al Fatih</h1>
+# Muhammad Izzuddin Al Fatih
 
-<p align="center">
-  Computer Science Education Graduate from Indonesia 🇮🇩 <br>
-  Interested in Software Development, Data, and Machine Learning
-</p>
+Computer Science Education graduate based in Bandung, Indonesia.
 
----
+I am interested in software development, data, and machine learning, with experience building web-based applications and data-driven systems. I enjoy turning problems into practical solutions and continuously improving my software engineering skills.
 
-### 👨‍💻 About Me
+## Technical Skills
 
-* 🎓 Computer Science Education graduate
-* 💻 Interested in software development and building practical applications
-* 📊 Exploring data analysis and machine learning
-* 🐍 Currently working mostly with Python, SQL, and web technologies
-* 🌱 Continuously improving my programming and problem-solving skills
+**Languages**  
+Python, JavaScript, Java, SQL, HTML, CSS
 
----
+**Frameworks & Libraries**  
+React, Streamlit, Pandas, Scikit-learn
 
-### 🛠️ Tech Stack
+**Database & Backend**  
+PostgreSQL, Supabase
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,java,postgres,supabase,git,github,vscode" />
-</p>
+**Tools**  
+Git, GitHub, VS Code
 
----
+## Current Focus
 
-### 📌 Currently Working On
+- Building and improving software development projects
+- Developing web and data-driven applications
+- Strengthening backend development and database skills
+- Exploring practical machine learning applications
 
-* Improving and documenting my software development portfolio
-* Building practical web and data-driven projects
-* Exploring Machine Learning implementation in real-world applications
+## Projects
 
----
+Selected projects and case studies will be added here as I continue improving my portfolio.
 
-### 📊 GitHub Statistics
+## Contact
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mialfatih&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mialfatih&layout=compact&hide_border=true" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-Feel free to explore my repositories and projects.
-I'm open to internship, entry-level, and collaborative opportunities in software development, data, and technology.
+- GitHub: [github.com/mialfatih](https://github.com/mialfatih)
+- LinkedIn: Add LinkedIn URL
+- Email: Add professional email
