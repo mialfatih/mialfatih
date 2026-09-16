@@ -12,8 +12,8 @@ Python, JavaScript, Java, SQL, HTML, CSS
 **Frameworks & Libraries**  
 React, Streamlit, Pandas, Scikit-learn
 
-**Database & Backend**  
-PostgreSQL, Supabase
+**Backend & Databases**  
+Go, Supabase, PostgreSQL, MySQL/MariaDB
 
 **Tools**  
 Git, GitHub, VS Code
@@ -25,9 +25,23 @@ Git, GitHub, VS Code
 - Strengthening backend development and database skills
 - Exploring practical machine learning applications
 
-## Projects
+## Selected Projects
 
-Selected projects and case studies will be added here as I continue improving my portfolio.
+### CT Adaptive Learning System
+
+A web-based adaptive learning system that uses K-Nearest Neighbors (KNN) to classify students' Computational Thinking proficiency and personalize learning activities based on their CT profile.
+
+**Tech:** Python, Streamlit, Scikit-learn, Supabase, PostgreSQL
+
+[Repository](https://github.com/mialfatih/ct-adaptive-learning) · [Live Demo](https://ct-adaptive-learning.streamlit.app/)
+
+### Clinic Patient Management
+
+A React-based patient management application featuring CRUD operations, search, patient details, and browser-based data persistence. The original project also includes a Go REST API and MySQL/MariaDB implementation.
+
+**Tech:** React, JavaScript, Go, MySQL/MariaDB, Local Storage, Vercel
+
+[Repository](https://github.com/mialfatih/clinic-patient-management) · [Live Demo](https://clinic-patient-management-beta.vercel.app/)
 
 ## Contact
 
